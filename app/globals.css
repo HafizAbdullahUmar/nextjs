@@ -26,10 +26,14 @@ body {
     rgb(var(--background-start-rgb));
 }
 .img-wrap {
-
+  width: 90%;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  gap: 20px;
 }
 .img-out {
-  max-width: 250px;
-  max-height: 250px;
-  
+  width: 800px;
+  height: 550px;
+  position: relative;
 }
