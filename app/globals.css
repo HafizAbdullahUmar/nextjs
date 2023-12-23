@@ -37,3 +37,8 @@ body {
   height: 550px;
   position: relative;
 }
+.img-out.v2 {
+  width: 80px;
+  height: 50px;
+  position: relative;
+}
